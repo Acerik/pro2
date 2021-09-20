@@ -1,4 +1,4 @@
-package com.company;
+package cz.uhk.algds;
 
 public class Main {
 
